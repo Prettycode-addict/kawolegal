@@ -1,3 +1,26 @@
 body {
   color: #333;
 }
+
+.bg-img {
+  background-image: url(../img/officepic.jpg);
+  background-size: cover;
+}
+
+.background-img {
+  text-align: center;
+  align-items: center;
+  color: white;
+  background-color: rgba(49, 12, 12, 0.76);
+  height: 100%;
+}
+
+
+footer {
+  background-color: #3c0d0d;
+  color: white;
+  margin-top: 25px;
+}
+.c-footer {
+  padding-top: 15px;
+}
