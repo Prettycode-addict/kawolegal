@@ -6,6 +6,16 @@ body {
   background-color: #3c0d0d;
   height: 110px;
   position: relative;
+  box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 5px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
+  z-index: 1100;
+}
+
+.nav.navbar-nav.navbar-right li a {
+  color: #D14233;
+}
+
+.ntext{
+  padding-top: 38px;
 }
 
 .bg-img {
@@ -21,6 +31,9 @@ body {
   height: 100%;
 }
 
+.klmid {
+  padding-top: 200px;
+}
 
 
 footer {
@@ -40,4 +53,9 @@ li {
   height: 100px;
   width: 100px;
 
+}
+
+.stlogo {
+  height: 150px;
+  width: 150px;
 }
