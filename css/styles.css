@@ -45,6 +45,11 @@ footer {
   padding-top: 15px;
 }
 
+.socialf li {
+  display: inline;
+  float: right;
+}
+
 li {
   list-style: none;
 }
